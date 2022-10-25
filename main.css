@@ -1,0 +1,114 @@
+/* Header, footer en koptekst */
+header{
+  background-color: #cc0000;
+  width:100%;
+  height:200px;
+}
+
+footer{
+  background-color: #000099;
+  width: 100%;
+  height: 200px;
+}
+
+h1 {
+  color: #000033;
+}
+
+/* Tabel - celkleuren */
+#marvel {
+  background-color: darkred;
+}
+
+#afbeelding {
+  background-color: mistyrose;
+}
+
+#dc {
+  background-color: navy;
+}
+
+#plaatje {
+  background-color: antiquewhite;
+}
+
+#moon {
+  background-color: red;
+}
+
+#afbeeldingmoon {
+  background-color: linen;
+}
+
+#batman {
+  background-color: darkblue;
+}
+
+#afbeeldingbatman {
+  background-color: beige;
+}
+
+#namor{
+  background-color: firebrick;
+}
+
+#afbeeldingnamor {
+  background-color: whitesmoke;
+}
+
+#aquaman {
+  background-color: mediumblue;
+}
+
+#afbeeldingaquaman {
+  background-color: lavenderblush;
+}
+
+#wintersoldier {
+  background-color: crimson;
+}
+
+#afbeeldingwintersoldier {
+  background-color: oldlace;
+}
+
+#redhood {
+  background-color: blue;
+}
+
+#afbeeldingredhood {
+  background-color: aliceblue;
+}
+
+/* Highlights */
+.mistyrose {
+  background-color: mistyrose;
+}
+
+.antiquewhite {
+  background-color: antiquewhite;
+}
+
+.linen {
+  background-color: linen;
+}
+
+.beige {
+  background-color: beige;
+}
+
+.whitesmoke {
+  background-color: whitesmoke;
+}
+
+.lavenderblush {
+  background-color: lavenderblush;
+}
+
+.oldlace {
+  background-color: oldlace;
+}
+
+.aliceblue {
+  background-color: aliceblue;
+}
